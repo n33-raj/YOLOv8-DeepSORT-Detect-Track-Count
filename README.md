@@ -1,5 +1,5 @@
-## Object Detection, Tracking & Counting Using YOLOv8 & DeepSORT.
-Here I Used Pre-Trained Weight Of YOLOv8 For Object Detection
+# Object Detection, Tracking & Counting Using YOLOv8 & DeepSORT.
+### Here I Used Pre-Trained Weight Of YOLOv8 For Object Detection
 
 
 -----------------------------
